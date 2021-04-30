@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <spring.framework.version>5.1.6.RELEASE</spring.framework.version>
+        <spring.framework.version>5.1.18.RELEASE</spring.framework.version>
         <spring.boot.version>2.1.4.RELEASE</spring.boot.version>
 
         <java.source.target.version>11</java.source.target.version>
